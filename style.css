@@ -1,6 +1,6 @@
 /* Estilos para o corpo da página */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Roboto;
     background-color: #F2F2F2;
     color: #333;
     margin: 0;
@@ -53,13 +53,13 @@ body {
   }
   
   h2 {
-    font-size: 24px;
+    font-size: 28px;
     margin-bottom: 20px;
   }
   
   p {
     line-height: 1.5;
-    font-size: 16px;
+    font-size: 22px;
   }
   
   /* Estilos para o rodapé */
