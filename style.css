@@ -8,13 +8,14 @@ body {
   
   /* Estilos para o cabeçalho */
   header {
-    background-color: #FFF;
+    background-color: #adc4f5;
     padding: 20px;
     border-bottom: 1px solid #CCC;
   }
   
   header h1 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans';
+    src: url('OpenSans-Regular.ttf') format('truetype');
     font-size: 36px;
     margin: 0;
   }
